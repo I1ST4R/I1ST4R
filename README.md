@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @I1ST4R
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning  React⚛️
+- 🟥 paint buttons professionally
 
 <!---
 I1ST4R/I1ST4R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
