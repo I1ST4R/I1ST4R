@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I1ST4R
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning  React⚛️
+- 🌱 I’m currently learning  React React-Redux React-Router api⚛️
 - 🟥 paint buttons professionally
 
 <!---
